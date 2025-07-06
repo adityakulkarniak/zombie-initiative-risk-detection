@@ -18,7 +18,7 @@ These **Zombie Initiatives** silently drain resources, distort portfolio perform
 
 ---
 
-## 💡 Solution Overview
+##  Solution Overview
 
 This project uses structured datasets, SQL logic, Python analysis, and interactive dashboards to:
 
@@ -37,7 +37,7 @@ This project uses structured datasets, SQL logic, Python analysis, and interacti
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **SQL:** Business rules for initiative detection and risk scoring  
 - **Python (Pandas):** Data preparation, financial waste calculations  
