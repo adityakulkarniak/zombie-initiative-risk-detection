@@ -1,0 +1,251 @@
+project_id,project_name,department,owner,budget_usd,target_budget,start_date,status,termination_reason
+1,Google Glass,R&D,Sundar Team,5000000,4500000,2014-01-01,Terminated,Low Adoption
+2,Google Plus,Product,Larry Team,3000000,2700000,2014-01-01,Terminated,Poor Engagement
+3,Google Stadia,Gaming,Pichai Team,7000000,6300000,2014-01-01,Terminated,Market Saturation
+4,Amazon Dash,Product,Bezos Unit,4000000,3600000,2014-01-01,Terminated,Low Adoption
+5,Meta Portal,Product,Zuckerberg Lab,3500000,3150000,2014-01-01,Terminated,Poor Engagement
+6,IBM Watson for Oncology,R&D,IBM Watson,8000000,7200000,2014-01-01,Terminated,Strategic Shift
+7,Project_7,Compliance,Raj Patel,9249732,6675852,2022-09-25,Completed,
+8,Project_8,HR,Alice Kumar,9242600,7439183,2023-01-14,Completed,
+9,Project_9,Compliance,Pichai Team,2708513,2041754,2021-10-10,Active,
+10,Project_10,HR,Sundar Team,7807870,6512208,2022-03-31,Terminated,Low Adoption
+11,Project_11,IT,Bezos Unit,4955124,4689060,2020-08-11,Active,
+12,Project_12,Marketing,Larry Team,4579144,4008834,2018-10-20,Active,
+13,Project_13,Legal,Zuckerberg Lab,5540561,5045860,2018-08-18,Completed,
+14,Project_14,Operations,John Mehta,9615702,8837713,2021-07-12,Terminated,Poor Engagement
+15,Project_15,Marketing,John Mehta,9142538,7000307,2022-10-21,Completed,
+16,Project_16,Finance,Raj Patel,1939607,1431837,2019-10-18,Completed,
+17,Project_17,HR,Elena Singh,9381590,8585983,2018-02-17,Completed,
+18,Project_18,Legal,Larry Team,7394150,5468265,2018-01-14,Active,
+19,Project_19,R&D,Bezos Unit,3437174,2537355,2019-10-24,Completed,
+20,Project_20,Operations,Larry Team,5259230,3996294,2020-09-13,Terminated,Strategic Shift
+21,Project_21,Sales,IBM Watson,8073915,7562934,2019-11-08,Active,
+22,Project_22,Compliance,John Mehta,6793979,6446041,2022-03-10,Completed,
+23,Project_23,Product,Alice Kumar,3960684,3355135,2018-01-30,Completed,
+24,Project_24,Operations,Mohit Rana,8243903,6212268,2019-06-26,Active,
+25,Project_25,Strategy,Raj Patel,7331838,5781699,2022-08-11,Active,
+26,Project_26,IT,Pichai Team,1933230,1473438,2020-02-19,Completed,
+27,Project_27,Finance,John Mehta,1364748,1106514,2019-02-06,Terminated,Low Adoption
+28,Project_28,Finance,Elena Singh,6828339,6320383,2019-11-06,Active,
+29,Project_29,R&D,Pichai Team,9424245,8156380,2023-06-17,Completed,
+30,Project_30,Compliance,Mohit Rana,5361415,3829612,2023-05-07,Active,
+31,Project_31,Operations,Priya Das,4046066,3240671,2020-10-05,Active,
+32,Project_32,Sales,Larry Team,3526900,3059344,2021-07-10,Terminated,Poor Engagement
+33,Project_33,Finance,Larry Team,1317071,925016,2019-02-14,Terminated,Low Adoption
+34,Project_34,Product,Sundar Team,9213685,8070128,2023-12-07,Active,
+35,Project_35,R&D,Raj Patel,9381552,6931672,2021-02-28,Terminated,Strategic Shift
+36,Project_36,Sales,Elena Singh,952264,688557,2022-10-01,Active,
+37,Project_37,Legal,Sundar Team,7512769,6295100,2022-10-18,Active,
+38,Project_38,IT,Larry Team,2584601,2086927,2018-06-21,Completed,
+39,Project_39,Legal,John Mehta,6033742,5400374,2022-07-23,Completed,
+40,Project_40,Gaming,Alice Kumar,5673147,5080851,2022-08-14,Active,
+41,Project_41,IT,Elena Singh,7822606,6159634,2020-07-21,Active,
+42,Project_42,R&D,Raj Patel,4782940,3767935,2023-09-18,Terminated,Budget Cuts
+43,Project_43,R&D,Alice Kumar,7390770,5812262,2021-07-08,Active,
+44,Project_44,IT,Zuckerberg Lab,8822815,8217515,2020-03-18,Active,
+45,Project_45,Product,Bezos Unit,5138571,4248470,2022-07-31,Terminated,Market Saturation
+46,Project_46,Legal,Pichai Team,3019694,2578452,2021-05-17,Completed,
+47,Project_47,HR,Priya Das,7901207,6403505,2020-05-25,Completed,
+48,Project_48,R&D,Mohit Rana,5723525,4140093,2020-08-20,Completed,
+49,Project_49,IT,John Mehta,1321854,1075796,2020-03-07,Terminated,Regulatory Failure
+50,Project_50,Compliance,Alice Kumar,1888238,1689227,2020-06-15,Terminated,Poor Engagement
+51,Project_51,Finance,Sarah Nair,9010914,8533093,2021-07-23,Terminated,Budget Cuts
+52,Project_52,Finance,Sundar Team,4752512,4236643,2023-11-06,Completed,
+53,Project_53,R&D,John Mehta,5463836,5044523,2018-11-27,Active,
+54,Project_54,Compliance,John Mehta,6938382,5430812,2023-03-24,Active,
+55,Project_55,Compliance,Alice Kumar,9758481,7758921,2018-01-25,Terminated,Market Saturation
+56,Project_56,Compliance,Mohit Rana,3800025,3123838,2021-01-22,Completed,
+57,Project_57,Legal,IBM Watson,2868991,2611144,2019-06-07,Active,
+58,Project_58,Operations,Bezos Unit,7846014,5848671,2020-12-01,Active,
+59,Project_59,Gaming,Sundar Team,7172684,5473244,2018-12-02,Completed,
+60,Project_60,Strategy,Bezos Unit,775419,689004,2020-10-09,Active,
+61,Project_61,Finance,Bezos Unit,3756838,3066550,2020-11-15,Active,
+62,Project_62,Operations,IBM Watson,5318367,3866584,2018-04-16,Terminated,Market Saturation
+63,Project_63,Compliance,Bezos Unit,5159717,4708620,2019-05-11,Active,
+64,Project_64,Operations,Mohit Rana,312267,284910,2023-07-01,Completed,
+65,Project_65,Gaming,Sarah Nair,4631230,3954968,2023-06-04,Completed,
+66,Project_66,Operations,Sundar Team,4191349,3720321,2022-04-02,Terminated,Market Saturation
+67,Project_67,Strategy,Larry Team,5809938,4473156,2021-02-05,Completed,
+68,Project_68,Compliance,Pichai Team,4131966,3605769,2023-07-04,Active,
+69,Project_69,Compliance,John Mehta,9856883,7809165,2023-12-15,Active,
+70,Project_70,Compliance,Elena Singh,4317853,3271354,2020-02-28,Active,
+71,Project_71,Marketing,John Mehta,8223504,6324901,2023-11-19,Active,
+72,Project_72,Product,Sarah Nair,9061299,6629660,2018-07-06,Active,
+73,Project_73,Operations,Alice Kumar,7975173,6537078,2021-10-27,Completed,
+74,Project_74,Gaming,Elena Singh,999411,737497,2021-05-29,Active,
+75,Project_75,HR,Priya Das,3886401,3474144,2022-04-08,Completed,
+76,Project_76,HR,Alice Kumar,1764863,1653495,2020-05-01,Completed,
+77,Project_77,Marketing,Mohit Rana,144891,116221,2023-04-09,Active,
+78,Project_78,Compliance,Elena Singh,4016201,3738993,2020-03-21,Active,
+79,Project_79,R&D,Sarah Nair,2883722,2590035,2021-03-28,Active,
+80,Project_80,Gaming,Sundar Team,8384509,6786754,2018-06-13,Completed,
+81,Project_81,Strategy,Bezos Unit,9750239,8256314,2018-03-26,Terminated,Regulatory Failure
+82,Project_82,Legal,Elena Singh,3144882,2985236,2022-11-21,Terminated,Regulatory Failure
+83,Project_83,Product,Bezos Unit,2798193,2189448,2023-07-23,Active,
+84,Project_84,Operations,Larry Team,2044841,1927357,2022-07-14,Active,
+85,Project_85,Product,Priya Das,7516216,6689414,2020-04-13,Completed,
+86,Project_86,Operations,Alice Kumar,4114745,3610465,2021-06-26,Terminated,Strategic Shift
+87,Project_87,Finance,Raj Patel,2683206,2212555,2021-04-10,Completed,
+88,Project_88,Finance,Mohit Rana,3297911,3068597,2023-09-13,Active,
+89,Project_89,R&D,Alice Kumar,5108935,4645907,2023-06-29,Active,
+90,Project_90,Sales,IBM Watson,7739414,7222522,2020-02-12,Completed,
+91,Project_91,IT,Larry Team,6495997,5174189,2019-09-16,Completed,
+92,Project_92,Operations,Elena Singh,7765981,5465983,2019-08-14,Active,
+93,Project_93,Product,Priya Das,1447467,1321452,2023-12-26,Completed,
+94,Project_94,IT,Priya Das,4921419,4672181,2019-01-06,Active,
+95,Project_95,Finance,Sarah Nair,585654,416691,2018-08-18,Completed,
+96,Project_96,Sales,Pichai Team,3120853,2317220,2018-11-20,Completed,
+97,Project_97,Marketing,John Mehta,4361032,3553772,2018-02-08,Active,
+98,Project_98,Finance,Larry Team,5118975,4400960,2022-10-04,Terminated,Regulatory Failure
+99,Project_99,Finance,Raj Patel,9695270,7656740,2021-04-26,Active,
+100,Project_100,IT,Priya Das,922825,856062,2023-07-28,Terminated,Market Saturation
+101,Project_101,R&D,Bezos Unit,2394774,2052469,2018-06-11,Completed,
+102,Project_102,Marketing,Raj Patel,5581437,4950010,2019-12-21,Terminated,Poor Engagement
+103,Project_103,R&D,Elena Singh,5051651,4478995,2021-10-19,Terminated,Low Adoption
+104,Project_104,Compliance,Bezos Unit,9450154,7479265,2022-06-05,Terminated,Low Adoption
+105,Project_105,Legal,Sundar Team,6332293,4604124,2020-08-15,Completed,
+106,Project_106,Strategy,Bezos Unit,7889116,7315947,2021-05-22,Active,
+107,Project_107,Finance,Raj Patel,9118535,6692238,2023-02-02,Active,
+108,Project_108,Gaming,Bezos Unit,8309880,7095915,2021-02-19,Active,
+109,Project_109,Product,Raj Patel,6262857,5236477,2022-01-09,Terminated,Low Adoption
+110,Project_110,Operations,Bezos Unit,458318,326617,2021-09-28,Active,
+111,Project_111,Sales,John Mehta,4009069,3135652,2019-08-28,Completed,
+112,Project_112,R&D,IBM Watson,532519,390310,2022-01-07,Active,
+113,Project_113,Marketing,Zuckerberg Lab,2006718,1778787,2023-05-05,Active,
+114,Project_114,Sales,John Mehta,827544,729737,2023-11-06,Terminated,Market Saturation
+115,Project_115,Gaming,Bezos Unit,7541741,5417780,2018-11-27,Active,
+116,Project_116,Legal,Priya Das,5555706,4418042,2023-12-14,Completed,
+117,Project_117,Operations,Bezos Unit,9349870,8229848,2020-05-30,Completed,
+118,Project_118,Gaming,Pichai Team,5343691,4310707,2020-11-10,Completed,
+119,Project_119,Operations,Raj Patel,6351976,5735467,2018-09-03,Active,
+120,Project_120,Gaming,Zuckerberg Lab,4925620,4187281,2021-12-11,Active,
+121,Project_121,Operations,Larry Team,6266651,4566642,2021-02-15,Terminated,Strategic Shift
+122,Project_122,HR,Bezos Unit,540466,460611,2020-12-31,Completed,
+123,Project_123,IT,Sarah Nair,9601291,8298742,2018-10-13,Terminated,Poor Engagement
+124,Project_124,Gaming,Elena Singh,6308460,4907409,2021-08-21,Active,
+125,Project_125,IT,Bezos Unit,7534202,6520736,2023-06-13,Active,
+126,Project_126,Operations,Larry Team,4852087,4219153,2023-06-17,Active,
+127,Project_127,IT,John Mehta,3643918,3249782,2020-11-12,Active,
+128,Project_128,Gaming,Sarah Nair,9035249,7914135,2023-08-12,Active,
+129,Project_129,IT,Elena Singh,5352285,4517006,2022-07-15,Terminated,Regulatory Failure
+130,Project_130,Marketing,IBM Watson,7819145,7099834,2022-01-22,Terminated,Low Adoption
+131,Project_131,Sales,Raj Patel,5305543,4703104,2020-06-26,Active,
+132,Project_132,Sales,Mohit Rana,5961544,4696354,2019-08-28,Active,
+133,Project_133,HR,Sarah Nair,1364218,1015369,2023-07-17,Completed,
+134,Project_134,HR,Larry Team,5403930,3986691,2018-10-07,Terminated,Budget Cuts
+135,Project_135,Product,Mohit Rana,7846753,6379241,2018-08-22,Active,
+136,Project_136,HR,Priya Das,7863013,6644893,2018-06-18,Completed,
+137,Project_137,IT,Elena Singh,5861929,5543018,2018-12-12,Active,
+138,Project_138,Sales,Mohit Rana,6205194,4922040,2021-03-04,Completed,
+139,Project_139,IT,IBM Watson,5714484,4094301,2019-01-23,Completed,
+140,Project_140,HR,Sarah Nair,9876746,8552304,2021-12-03,Active,
+141,Project_141,R&D,Mohit Rana,5610922,5068324,2023-11-27,Active,
+142,Project_142,R&D,Sarah Nair,5833317,5465334,2023-06-15,Terminated,Poor Engagement
+143,Project_143,Sales,IBM Watson,8933734,6337920,2021-10-11,Completed,
+144,Project_144,Marketing,Zuckerberg Lab,2877286,2532862,2018-06-28,Completed,
+145,Project_145,R&D,IBM Watson,7631761,5788696,2020-09-06,Completed,
+146,Project_146,HR,Elena Singh,4827345,4318209,2023-08-22,Active,
+147,Project_147,Marketing,Sundar Team,8162973,7497929,2019-02-25,Active,
+148,Project_148,Sales,Sarah Nair,1638698,1534809,2020-06-28,Terminated,Budget Cuts
+149,Project_149,Product,John Mehta,1469112,1166075,2018-04-26,Active,
+150,Project_150,Marketing,Sarah Nair,8026478,7015286,2019-07-23,Active,
+151,Project_151,R&D,John Mehta,9307407,8702951,2023-12-02,Terminated,Budget Cuts
+152,Project_152,Strategy,Pichai Team,7769093,5560353,2023-08-10,Completed,
+153,Project_153,Compliance,Sarah Nair,126245,107775,2020-09-12,Active,
+154,Project_154,Product,Raj Patel,9228180,7630153,2023-09-11,Terminated,Strategic Shift
+155,Project_155,Gaming,Larry Team,372499,294003,2018-10-04,Active,
+156,Project_156,HR,Zuckerberg Lab,2338241,1662685,2021-10-18,Completed,
+157,Project_157,Legal,Sarah Nair,1158651,1018467,2023-02-18,Terminated,Low Adoption
+158,Project_158,R&D,Mohit Rana,9210543,7537447,2018-05-30,Active,
+159,Project_159,Product,Sundar Team,6274337,5077430,2022-06-27,Active,
+160,Project_160,Finance,Larry Team,8812003,6755987,2018-12-05,Terminated,Regulatory Failure
+161,Project_161,Sales,Sundar Team,1443333,1128657,2021-04-25,Active,
+162,Project_162,Compliance,Elena Singh,810601,714709,2021-12-15,Active,
+163,Project_163,Legal,Pichai Team,2784131,2612064,2019-08-08,Active,
+164,Project_164,Product,Larry Team,9616785,6809610,2019-09-21,Active,
+165,Project_165,HR,Sarah Nair,6777903,5277250,2021-02-15,Completed,
+166,Project_166,Gaming,Mohit Rana,4466937,3913079,2020-05-28,Active,
+167,Project_167,Finance,Sarah Nair,7567726,7184160,2021-08-02,Terminated,Regulatory Failure
+168,Project_168,Marketing,Zuckerberg Lab,3020762,2713925,2023-09-15,Completed,
+169,Project_169,IT,Larry Team,6289302,5137425,2019-06-16,Completed,
+170,Project_170,Compliance,Elena Singh,6969154,6312902,2018-10-30,Completed,
+171,Project_171,Legal,Mohit Rana,9349336,8039947,2020-01-16,Active,
+172,Project_172,Sales,Sarah Nair,2817354,2199410,2020-07-12,Active,
+173,Project_173,Legal,Mohit Rana,5180553,4422156,2019-01-18,Active,
+174,Project_174,HR,Larry Team,9555941,6787571,2018-04-27,Terminated,Low Adoption
+175,Project_175,Gaming,Priya Das,8455692,7798255,2021-04-01,Completed,
+176,Project_176,Gaming,Sundar Team,1105173,817297,2022-08-30,Active,
+177,Project_177,Product,Zuckerberg Lab,5894356,5563349,2019-06-20,Active,
+178,Project_178,R&D,Elena Singh,1724230,1228774,2022-04-23,Active,
+179,Project_179,HR,Zuckerberg Lab,2773322,2286788,2023-10-10,Active,
+180,Project_180,Operations,Pichai Team,4138756,3119736,2021-12-16,Completed,
+181,Project_181,Legal,Elena Singh,237194,216271,2022-11-01,Active,
+182,Project_182,Product,Alice Kumar,9667738,8125291,2022-01-24,Active,
+183,Project_183,R&D,Priya Das,2093318,1532655,2019-02-01,Completed,
+184,Project_184,Marketing,John Mehta,6834157,5638312,2018-07-05,Completed,
+185,Project_185,Sales,Elena Singh,8748751,6429852,2021-07-28,Active,
+186,Project_186,HR,Larry Team,8651583,7207503,2021-05-12,Completed,
+187,Project_187,Gaming,Priya Das,547065,464582,2020-12-23,Active,
+188,Project_188,Legal,Zuckerberg Lab,6478535,4774317,2020-09-19,Completed,
+189,Project_189,Gaming,Sarah Nair,3520734,2825721,2023-04-16,Active,
+190,Project_190,Legal,Elena Singh,5363895,5037616,2023-02-26,Completed,
+191,Project_191,Legal,Bezos Unit,4535261,3866396,2020-02-27,Terminated,Poor Engagement
+192,Project_192,Compliance,John Mehta,8304110,6471062,2021-11-29,Completed,
+193,Project_193,Sales,Pichai Team,6719156,6078110,2019-08-23,Terminated,Market Saturation
+194,Project_194,Legal,Sundar Team,3690102,2769484,2021-01-15,Completed,
+195,Project_195,HR,John Mehta,9009397,6814869,2020-08-11,Active,
+196,Project_196,Operations,Bezos Unit,186930,175925,2019-10-09,Completed,
+197,Project_197,Product,Sundar Team,1600901,1381697,2020-08-09,Completed,
+198,Project_198,IT,Pichai Team,3225790,3013378,2021-03-31,Completed,
+199,Project_199,Product,Sundar Team,9215069,7658456,2019-07-04,Active,
+200,Project_200,Compliance,Elena Singh,3223902,2268082,2021-10-12,Completed,
+201,Project_201,Sales,Larry Team,1700296,1268752,2019-07-30,Active,
+202,Project_202,Strategy,Elena Singh,5630194,4366139,2018-02-16,Completed,
+203,Project_203,Operations,Elena Singh,6901762,6015012,2021-06-27,Active,
+204,Project_204,Marketing,Elena Singh,6368384,5119934,2023-04-13,Active,
+205,Project_205,Sales,Elena Singh,6169742,4439287,2019-04-05,Completed,
+206,Project_206,Product,Mohit Rana,3546065,3117804,2023-06-26,Active,
+207,Project_207,Sales,Pichai Team,1068662,897354,2021-06-16,Active,
+208,Project_208,HR,Raj Patel,5880235,5145771,2018-09-04,Active,
+209,Project_209,Marketing,IBM Watson,7152503,5676335,2022-04-16,Completed,
+210,Project_210,Sales,Sarah Nair,5934610,4330237,2024-01-10,Completed,
+211,Project_211,IT,Sundar Team,9234277,7443122,2022-04-03,Active,
+212,Project_212,Strategy,Zuckerberg Lab,640516,577982,2022-09-14,Completed,
+213,Project_213,HR,Alice Kumar,916653,697741,2018-07-01,Active,
+214,Project_214,Marketing,Mohit Rana,4028578,3641619,2021-07-30,Terminated,Strategic Shift
+215,Project_215,Strategy,Pichai Team,1122699,942146,2019-12-19,Active,
+216,Project_216,Gaming,IBM Watson,7084768,5682442,2021-05-13,Completed,
+217,Project_217,Strategy,Sundar Team,2521820,2273279,2018-08-25,Terminated,Strategic Shift
+218,Project_218,Strategy,Sundar Team,1426581,1327514,2022-02-28,Active,
+219,Project_219,HR,Priya Das,1321118,986929,2020-06-07,Active,
+220,Project_220,Strategy,John Mehta,2068239,1833948,2023-05-16,Terminated,Poor Engagement
+221,Project_221,Gaming,Elena Singh,6127375,4761617,2022-01-13,Completed,
+222,Project_222,Finance,IBM Watson,3507913,2780639,2022-08-23,Terminated,Low Adoption
+223,Project_223,HR,Zuckerberg Lab,2657039,1990249,2020-07-31,Active,
+224,Project_224,Product,Sundar Team,8297701,7813339,2023-07-03,Completed,
+225,Project_225,Compliance,Mohit Rana,9195547,8713524,2018-08-29,Active,
+226,Project_226,Gaming,Sarah Nair,3982808,2855641,2019-09-11,Terminated,Low Adoption
+227,Project_227,Legal,Priya Das,8284838,5831970,2023-12-20,Terminated,Strategic Shift
+228,Project_228,Sales,Sundar Team,7323819,6602729,2020-01-05,Active,
+229,Project_229,HR,Mohit Rana,6046534,4636670,2022-06-14,Active,
+230,Project_230,Compliance,John Mehta,1452527,1254161,2018-05-10,Active,
+231,Project_231,IT,Bezos Unit,2975339,2144242,2022-11-13,Active,
+232,Project_232,Compliance,Priya Das,881180,820413,2021-02-22,Active,
+233,Project_233,HR,Sarah Nair,6782298,6322585,2021-05-10,Completed,
+234,Project_234,Product,Pichai Team,2447981,2197367,2018-11-18,Completed,
+235,Project_235,Operations,Larry Team,6755572,6365303,2021-08-29,Completed,
+236,Project_236,Product,Mohit Rana,7345206,5482714,2022-04-06,Terminated,Low Adoption
+237,Project_237,Marketing,Pichai Team,2688336,2378945,2021-07-21,Completed,
+238,Project_238,Product,IBM Watson,2323098,1676868,2022-11-01,Active,
+239,Project_239,Sales,Raj Patel,5543037,5077031,2018-02-20,Completed,
+240,Project_240,Strategy,Priya Das,6487623,4816251,2021-01-06,Completed,
+241,Project_241,Gaming,Sundar Team,8224053,7366010,2022-01-19,Active,
+242,Project_242,HR,John Mehta,2373137,1841944,2022-06-09,Active,
+243,Project_243,Gaming,Bezos Unit,2383789,1847695,2020-04-02,Terminated,Budget Cuts
+244,Project_244,Compliance,Bezos Unit,9761651,8741495,2021-08-27,Active,
+245,Project_245,HR,John Mehta,9254137,6894163,2018-04-21,Completed,
+246,Project_246,Compliance,Raj Patel,6964256,6046676,2019-07-25,Terminated,Regulatory Failure
+247,Project_247,Gaming,IBM Watson,7634089,7234636,2023-05-17,Active,
+248,Project_248,Compliance,IBM Watson,1525760,1109749,2020-10-13,Completed,
+249,Project_249,Legal,Bezos Unit,5663269,5331566,2022-10-30,Active,
+250,Project_250,Compliance,Mohit Rana,9750848,7364405,2022-03-13,Completed,

@@ -1,0 +1,251 @@
+project_id,kpi_name,kpi_value,last_updated
+1,Product Adoption,-5,2015-01-01
+2,User Engagement,0,2015-01-01
+3,Market Share,-10,2015-01-01
+4,Customer Usage,-5,2015-01-01
+5,User Retention,0,2015-01-01
+6,Healthcare Impact,-7,2015-01-01
+7,Customer Growth,10,2023-09-28 00:00:00
+8,Product Adoption,20,2021-09-25 00:00:00
+9,Revenue Impact,-10,2022-12-08 00:00:00
+10,User Engagement,2,2022-05-20 00:00:00
+11,Market Share,-10,2023-03-23 00:00:00
+12,Market Expansion,-5,2023-07-18 00:00:00
+13,Customer Growth,10,2021-09-29 00:00:00
+14,Market Share,15,2022-03-14 00:00:00
+15,Market Share,20,2022-12-27 00:00:00
+16,Market Share,20,2022-05-01 00:00:00
+17,Revenue Impact,20,2022-02-02 00:00:00
+18,Efficiency,2,2022-07-31 00:00:00
+19,Customer Growth,20,2022-04-28 00:00:00
+20,Revenue Impact,-10,2021-12-13 00:00:00
+21,Market Share,2,2023-05-30 00:00:00
+22,Healthcare Impact,15,2023-08-31 00:00:00
+23,Customer Growth,10,2023-05-12 00:00:00
+24,Market Expansion,15,2021-10-20 00:00:00
+25,Customer Growth,15,2022-02-11 00:00:00
+26,Healthcare Impact,20,2023-08-11 00:00:00
+27,Revenue Impact,-15,2021-11-21 00:00:00
+28,Customer Growth,10,2022-11-28 00:00:00
+29,Market Expansion,10,2023-03-04 00:00:00
+30,Customer Growth,-5,2022-07-30 00:00:00
+31,Revenue Impact,-15,2022-10-29 00:00:00
+32,Market Share,2,2023-08-20 00:00:00
+33,Product Adoption,0,2023-08-19 00:00:00
+34,Product Adoption,-15,2022-02-21 00:00:00
+35,User Engagement,0,2023-06-07 00:00:00
+36,Customer Growth,2,2023-12-29 00:00:00
+37,Revenue Impact,-15,2023-10-16 00:00:00
+38,User Engagement,15,2021-10-08 00:00:00
+39,Efficiency,20,2023-05-04 00:00:00
+40,Product Adoption,0,2023-07-22 00:00:00
+41,Customer Growth,0,2022-02-25 00:00:00
+42,Customer Growth,5,2023-09-05 00:00:00
+43,Revenue Impact,10,2022-12-03 00:00:00
+44,Market Share,5,2023-10-22 00:00:00
+45,Product Adoption,10,2022-06-13 00:00:00
+46,Customer Growth,15,2023-02-24 00:00:00
+47,Healthcare Impact,20,2021-10-11 00:00:00
+48,Product Adoption,20,2023-05-16 00:00:00
+49,Healthcare Impact,10,2022-11-18 00:00:00
+50,Customer Growth,15,2022-06-10 00:00:00
+51,Healthcare Impact,10,2023-07-23 00:00:00
+52,Market Expansion,15,2023-03-26 00:00:00
+53,Efficiency,-5,2023-05-10 00:00:00
+54,Customer Growth,10,2023-06-04 00:00:00
+55,Market Share,2,2021-08-11 00:00:00
+56,Healthcare Impact,15,2023-12-03 00:00:00
+57,Market Share,-15,2022-05-05 00:00:00
+58,User Engagement,10,2023-05-30 00:00:00
+59,Customer Growth,15,2021-11-25 00:00:00
+60,Customer Growth,0,2022-04-05 00:00:00
+61,Efficiency,5,2022-04-21 00:00:00
+62,Market Share,10,2021-12-30 00:00:00
+63,User Engagement,-15,2022-07-05 00:00:00
+64,Market Share,10,2022-12-27 00:00:00
+65,Market Share,15,2021-09-08 00:00:00
+66,Healthcare Impact,-15,2021-08-13 00:00:00
+67,Customer Growth,20,2022-07-21 00:00:00
+68,Customer Growth,15,2023-09-28 00:00:00
+69,Market Share,5,2021-11-29 00:00:00
+70,Revenue Impact,5,2021-12-02 00:00:00
+71,Revenue Impact,2,2021-09-01 00:00:00
+72,Product Adoption,-15,2022-01-17 00:00:00
+73,Customer Growth,10,2023-04-18 00:00:00
+74,Market Expansion,-10,2023-09-02 00:00:00
+75,Healthcare Impact,15,2023-03-03 00:00:00
+76,Market Expansion,20,2023-04-06 00:00:00
+77,Customer Growth,2,2023-05-09 00:00:00
+78,Revenue Impact,10,2022-06-23 00:00:00
+79,Revenue Impact,15,2022-09-09 00:00:00
+80,User Engagement,15,2022-04-23 00:00:00
+81,Customer Growth,2,2021-11-11 00:00:00
+82,Revenue Impact,15,2022-09-07 00:00:00
+83,Market Share,2,2021-09-20 00:00:00
+84,Healthcare Impact,-15,2022-11-04 00:00:00
+85,Efficiency,15,2023-03-13 00:00:00
+86,Market Share,-15,2023-09-28 00:00:00
+87,Product Adoption,20,2022-11-02 00:00:00
+88,Revenue Impact,-5,2023-03-25 00:00:00
+89,Healthcare Impact,-5,2022-06-29 00:00:00
+90,Market Expansion,20,2022-05-26 00:00:00
+91,Customer Growth,15,2023-08-25 00:00:00
+92,Efficiency,10,2023-10-17 00:00:00
+93,User Engagement,15,2022-03-31 00:00:00
+94,Revenue Impact,10,2021-11-14 00:00:00
+95,User Engagement,15,2022-12-14 00:00:00
+96,Market Share,20,2022-04-07 00:00:00
+97,Product Adoption,15,2022-02-07 00:00:00
+98,Healthcare Impact,2,2021-08-19 00:00:00
+99,Customer Growth,2,2021-09-04 00:00:00
+100,User Engagement,0,2023-05-22 00:00:00
+101,Healthcare Impact,15,2023-11-28 00:00:00
+102,User Engagement,-5,2022-07-07 00:00:00
+103,Revenue Impact,15,2023-08-10 00:00:00
+104,Revenue Impact,2,2022-09-23 00:00:00
+105,Customer Growth,15,2022-04-07 00:00:00
+106,Revenue Impact,10,2023-08-11 00:00:00
+107,Market Share,5,2022-05-10 00:00:00
+108,User Engagement,-15,2023-05-24 00:00:00
+109,Product Adoption,10,2023-06-21 00:00:00
+110,Efficiency,0,2021-10-18 00:00:00
+111,Customer Growth,20,2023-03-24 00:00:00
+112,User Engagement,0,2023-12-16 00:00:00
+113,User Engagement,15,2022-07-25 00:00:00
+114,Customer Growth,15,2023-10-31 00:00:00
+115,Efficiency,5,2023-10-26 00:00:00
+116,Healthcare Impact,15,2022-08-02 00:00:00
+117,Healthcare Impact,15,2023-05-13 00:00:00
+118,Efficiency,15,2022-01-28 00:00:00
+119,Revenue Impact,5,2022-11-07 00:00:00
+120,Market Expansion,-10,2023-07-27 00:00:00
+121,Market Share,0,2021-08-19 00:00:00
+122,Efficiency,10,2023-03-28 00:00:00
+123,Revenue Impact,-15,2021-11-28 00:00:00
+124,Customer Growth,-10,2023-07-26 00:00:00
+125,Market Share,15,2023-03-28 00:00:00
+126,Customer Growth,2,2023-05-21 00:00:00
+127,User Engagement,2,2023-09-01 00:00:00
+128,Revenue Impact,5,2022-11-21 00:00:00
+129,Product Adoption,10,2023-09-06 00:00:00
+130,Revenue Impact,10,2023-04-27 00:00:00
+131,Efficiency,5,2023-10-15 00:00:00
+132,Revenue Impact,0,2023-08-05 00:00:00
+133,Healthcare Impact,15,2022-02-03 00:00:00
+134,Product Adoption,15,2021-10-08 00:00:00
+135,Product Adoption,5,2023-10-15 00:00:00
+136,Market Expansion,15,2023-02-06 00:00:00
+137,Customer Growth,-5,2023-04-23 00:00:00
+138,Market Share,15,2021-10-30 00:00:00
+139,Market Share,20,2023-03-17 00:00:00
+140,Market Share,2,2023-08-22 00:00:00
+141,Market Share,-10,2022-07-30 00:00:00
+142,Efficiency,0,2023-07-27 00:00:00
+143,Efficiency,20,2022-04-30 00:00:00
+144,User Engagement,15,2022-02-08 00:00:00
+145,Healthcare Impact,15,2021-08-29 00:00:00
+146,Efficiency,10,2021-09-17 00:00:00
+147,Product Adoption,-10,2023-10-08 00:00:00
+148,Customer Growth,5,2022-11-03 00:00:00
+149,Revenue Impact,5,2021-08-25 00:00:00
+150,Healthcare Impact,15,2022-04-11 00:00:00
+151,Product Adoption,-10,2023-05-03 00:00:00
+152,Customer Growth,20,2022-03-25 00:00:00
+153,Efficiency,10,2022-02-20 00:00:00
+154,Market Share,-15,2021-07-21 00:00:00
+155,Market Expansion,5,2021-12-12 00:00:00
+156,Efficiency,20,2021-09-03 00:00:00
+157,Market Expansion,2,2023-11-18 00:00:00
+158,Product Adoption,0,2023-01-01 00:00:00
+159,Market Share,15,2023-01-19 00:00:00
+160,Revenue Impact,10,2022-10-18 00:00:00
+161,Healthcare Impact,2,2022-04-24 00:00:00
+162,Product Adoption,10,2022-03-18 00:00:00
+163,Customer Growth,15,2023-08-25 00:00:00
+164,User Engagement,15,2022-12-17 00:00:00
+165,Revenue Impact,10,2023-12-06 00:00:00
+166,Healthcare Impact,2,2023-06-11 00:00:00
+167,Revenue Impact,5,2022-06-17 00:00:00
+168,Revenue Impact,10,2023-06-10 00:00:00
+169,Revenue Impact,20,2023-10-26 00:00:00
+170,User Engagement,10,2022-03-15 00:00:00
+171,Market Share,-5,2022-08-05 00:00:00
+172,Product Adoption,5,2021-08-18 00:00:00
+173,Efficiency,-5,2023-07-10 00:00:00
+174,Product Adoption,-15,2022-03-06 00:00:00
+175,Product Adoption,20,2022-08-25 00:00:00
+176,Healthcare Impact,15,2023-06-07 00:00:00
+177,Revenue Impact,5,2023-02-09 00:00:00
+178,Market Expansion,10,2021-07-29 00:00:00
+179,Healthcare Impact,15,2021-07-15 00:00:00
+180,Customer Growth,10,2023-03-19 00:00:00
+181,Product Adoption,-5,2021-12-18 00:00:00
+182,Revenue Impact,2,2022-12-02 00:00:00
+183,User Engagement,15,2021-10-10 00:00:00
+184,Efficiency,10,2022-01-01 00:00:00
+185,Market Share,-5,2022-04-10 00:00:00
+186,Customer Growth,15,2022-12-20 00:00:00
+187,Customer Growth,0,2022-05-14 00:00:00
+188,Revenue Impact,10,2023-06-20 00:00:00
+189,Efficiency,-15,2022-07-19 00:00:00
+190,User Engagement,20,2022-06-21 00:00:00
+191,Product Adoption,2,2023-05-16 00:00:00
+192,Product Adoption,20,2023-03-13 00:00:00
+193,Product Adoption,-15,2021-12-31 00:00:00
+194,Product Adoption,20,2023-08-14 00:00:00
+195,Revenue Impact,-15,2022-11-04 00:00:00
+196,Healthcare Impact,15,2022-08-31 00:00:00
+197,Customer Growth,20,2023-07-06 00:00:00
+198,Customer Growth,10,2023-03-02 00:00:00
+199,Product Adoption,15,2023-06-18 00:00:00
+200,Market Expansion,15,2023-07-06 00:00:00
+201,User Engagement,15,2023-04-22 00:00:00
+202,User Engagement,15,2022-01-22 00:00:00
+203,Product Adoption,-10,2022-12-21 00:00:00
+204,Market Expansion,0,2022-02-04 00:00:00
+205,Market Expansion,10,2022-05-25 00:00:00
+206,Healthcare Impact,-10,2021-09-25 00:00:00
+207,Market Share,-15,2023-04-16 00:00:00
+208,Healthcare Impact,-10,2023-11-30 00:00:00
+209,Market Share,15,2022-12-13 00:00:00
+210,Efficiency,15,2021-12-17 00:00:00
+211,Market Expansion,0,2022-09-17 00:00:00
+212,Customer Growth,20,2023-04-30 00:00:00
+213,Healthcare Impact,10,2023-05-07 00:00:00
+214,Market Expansion,5,2023-02-26 00:00:00
+215,Healthcare Impact,10,2023-11-14 00:00:00
+216,Efficiency,15,2021-11-20 00:00:00
+217,Market Share,10,2022-06-10 00:00:00
+218,Market Expansion,-10,2023-11-10 00:00:00
+219,Market Expansion,15,2021-07-25 00:00:00
+220,Market Share,0,2023-05-01 00:00:00
+221,Healthcare Impact,20,2022-09-11 00:00:00
+222,Efficiency,0,2023-12-16 00:00:00
+223,Market Expansion,10,2022-08-08 00:00:00
+224,Efficiency,15,2021-12-12 00:00:00
+225,Revenue Impact,-15,2021-09-16 00:00:00
+226,Healthcare Impact,0,2022-12-15 00:00:00
+227,Customer Growth,10,2023-12-15 00:00:00
+228,Revenue Impact,-10,2022-07-14 00:00:00
+229,User Engagement,-10,2022-11-12 00:00:00
+230,Market Share,-10,2022-12-09 00:00:00
+231,Revenue Impact,5,2022-07-10 00:00:00
+232,Efficiency,-15,2021-08-14 00:00:00
+233,Market Expansion,10,2022-05-31 00:00:00
+234,User Engagement,20,2023-11-08 00:00:00
+235,Product Adoption,10,2021-10-21 00:00:00
+236,Market Expansion,2,2022-01-01 00:00:00
+237,Revenue Impact,15,2023-09-30 00:00:00
+238,Market Share,15,2023-09-18 00:00:00
+239,Market Share,15,2022-11-30 00:00:00
+240,Product Adoption,15,2022-08-15 00:00:00
+241,Market Expansion,2,2021-12-24 00:00:00
+242,Market Share,5,2021-09-30 00:00:00
+243,Efficiency,5,2022-11-20 00:00:00
+244,Product Adoption,10,2021-09-17 00:00:00
+245,Healthcare Impact,20,2022-01-06 00:00:00
+246,Market Expansion,2,2023-04-18 00:00:00
+247,Market Share,10,2022-06-24 00:00:00
+248,User Engagement,20,2023-07-15 00:00:00
+249,Customer Growth,-10,2023-09-23 00:00:00
+250,Healthcare Impact,15,2021-11-02 00:00:00
