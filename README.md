@@ -22,16 +22,16 @@ These **Zombie Initiatives** silently drain resources, distort portfolio perform
 
 This project uses structured datasets, SQL logic, Python analysis, and interactive dashboards to:
 
-✔ Detect initiatives with:  
+✔ Detects initiatives with:  
    - Zero team activity logged  
    - No measurable improvement in KPIs  
    - Budget overspend exceeding defined thresholds  
 
-✔ Calculate:  
+✔ Calculates:  
    - Total wasted budget across Zombie initiatives  
    - Average financial loss per underperforming project  
 
-✔ Provide:  
+✔ Provides:  
    - Visual dashboards highlighting initiative risk  
    - Data-driven insights to improve project governance  
 
